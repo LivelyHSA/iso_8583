@@ -1,3 +1,7 @@
+# DEPRECATED - (AS OF AUG 8TH, 2024) NO LONGER IN USE BY LIVELY APP
+# REMOVED BY PR https://github.com/LivelyHSA/lively/pull/17468
+# DECOMMISSIONED BY RELEASE 2024-08-08-Office-Space-R4
+
 # ISO_8583
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/zemuldo/iso_8583.svg)](https://greenkeeper.io/)~![Travis CI build badge](https://travis-ci.org/zemuldo/iso_8583.svg?branch=main)~[![Known Vulnerabilities](https://snyk.io/test/github/zemuldo/iso_8583/badge.svg?targetFile=package.json)](https://snyk.io/test/github/zemuldo/iso_8583?targetFile=package.json)
